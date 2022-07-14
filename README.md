@@ -15,9 +15,9 @@ The term computer systems covers a broad range of topics, including distributed 
 
 More specifically, the students will be given prominent open-source projects (research papers and associated open-source code) covering the aforementioned areas. The students (in a team of 3-4 students) accomplish the following primary tasks, with the mentorship of a researcher from our chair:
 
-Stage 1: Deployment and evaluation — Understand the system and associated open-source code. Analyze the source code of the system, deploy, and exercise it using real-life workloads.
-Stage 2: Build and contribution — Implementing additional feature(s) and demonstrating its effectiveness. The students are encouraged to contribute to the project by creating a pull request to get their feature(s) merged into the open-source project.
-Stage 3: Report and peer-review — Each team will submit a report (~4 pages) that covers their evaluation and contributions. Then each student, independently, will evaluate two reports from other teams.
+- **Stage 1:** Deployment and evaluation — Understand the system and associated open-source code. Analyze the source code of the system, deploy, and exercise it using real-life workloads.
+- **Stage 2:** Build and contribution — Implementing additional feature(s) and demonstrating its effectiveness. The students are encouraged to contribute to the project by creating a pull request to get their feature(s) merged into the open-source project.
+- **Stage 3:** Report and peer-review — Each team will submit a report (~4 pages) that covers their evaluation and contributions. Then each student, independently, will evaluate two reports from other teams.
 
 There will be bonus points for students with accepted pull requests. Additionally, the top students will be nominated/encouraged to participate in the artifact evaluation committee for the major computer systems conferences: OSDI, SOSP, ASPLOS, EuroSys, etc.
 
