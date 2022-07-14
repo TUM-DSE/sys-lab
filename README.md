@@ -58,10 +58,13 @@ The goal is to gain a deep understanding of how modern computer systems, via ope
 ## Teaching and Learning Methods
 The students will work in a team of four, and each group will be assigned to a particular open-source computer system published in a recent top systems conference (SOSP, OSDI, EuroSys, ASPLOS, ATC, NSDI, …). The course will be split into four major components as follows. 
 
-  a. **Phase I: Deployment and evaluation.** Students will be tasked, in groups of four, to select an open-source computer system published in a recent top systems conference (SOSP, OSDI, EuroSys, ASPLOS, ATC, NSDI, …). Students will have a couple of weeks to read the documentation, paper, and necessary related work, understand them. Students will then deploy the source code associated with that system. The goal will be to gain a deep experience with technologies used in state of the art systems and to acquire hands-on experience with evaluating complex computer systems.
- b. **Phase II: Contribution.** Students will then be tasked to implement an additional feature(s) that extends the existing system, either to mitigate some of its limitations or expand the use-case to other domains. The goal of this phase is to acquaint students with contributing to open-source projects and thus students are highly encouraged to perform a pull-request to get their contribution merged into the source code of the project.
- c. **Presentation** Oral presentations (15mins + 5 Q/A) will be held in front of the other students after each stage. The students will also give a demo of their systems in the final presentation. The audience will also be evaluated on their questions.
- d. **Report and peer-review.** Students will write a technical report (~4 pages) that covers the description of the project, the results of exercising the source code, and description and evaluation of the contributions of the team. Students will also evaluate each others’ reports (two reports in total). Each report will be assigned a number of anonymous reviewers that will evaluate the report and give advice to improve it. The quality of the reviews (argumentation, ways to improve the report, …) will be evaluated.
+ -  a. **Phase I: Deployment and evaluation.** Students will be tasked, in groups of four, to select an open-source computer system published in a recent top systems conference (SOSP, OSDI, EuroSys, ASPLOS, ATC, NSDI, …). Students will have a couple of weeks to read the documentation, paper, and necessary related work, understand them. Students will then deploy the source code associated with that system. The goal will be to gain a deep experience with technologies used in state of the art systems and to acquire hands-on experience with evaluating complex computer systems.
+
+- b. **Phase II: Contribution.** Students will then be tasked to implement an additional feature(s) that extends the existing system, either to mitigate some of its limitations or expand the use-case to other domains. The goal of this phase is to acquaint students with contributing to open-source projects and thus students are highly encouraged to perform a pull-request to get their contribution merged into the source code of the project.
+
+- c. **Presentation** Oral presentations (15mins + 5 Q/A) will be held in front of the other students after each stage. The students will also give a demo of their systems in the final presentation. The audience will also be evaluated on their questions.
+
+- d. **Report and peer-review.** Students will write a technical report (~4 pages) that covers the description of the project, the results of exercising the source code, and description and evaluation of the contributions of the team. Students will also evaluate each others’ reports (two reports in total). Each report will be assigned a number of anonymous reviewers that will evaluate the report and give advice to improve it. The quality of the reviews (argumentation, ways to improve the report, …) will be evaluated.
 
 ## Registration
 
@@ -131,7 +134,7 @@ Please carefully go over the following resources to prepare for the seminar:
 
 We will manage the submission and peer-reviewing of reports via HotCRP:
 
-- [HotCRP portal]() 
+- [HotCRP portal](https://tum-dse-sys-lab21.hotcrp.com/) 
 
 
 ## Contact
