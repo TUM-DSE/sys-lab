@@ -109,9 +109,9 @@ Please carefully go over the following resources to prepare for the seminar:
 
 - **Kick-off meeting:** TBD
 
-- **Research presentation (Day 1):** TBD
+- **Phase #1 presentation:** TBD
 
-- **Research presentation (Day 2):** TBD
+- **Phase #1 presentation:** TBD
 
 - **Report due (via HotCRP):** TBD
 
