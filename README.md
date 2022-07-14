@@ -96,7 +96,7 @@ Please carefully go over the following resources to prepare for the seminar:
 
 - [Overview](docs/sys-seminar-overview.pdf)
 
-**Additional guide:**
+**Additional guidelines:**
 
 - [Paper reading](docs/paper-reading.pdf)
 - [Presentation](docs/presentation.pdf)
