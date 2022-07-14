@@ -95,12 +95,14 @@ In addition, we will hold *four* office hour meetings for project teams. These m
 Please carefully go over the following resources to prepare for the seminar:
 
 - [Overview](docs/sys-seminar-overview.pdf)
+
+**Additional guide:**
+
 - [Paper reading](docs/paper-reading.pdf)
 - [Presentation](docs/presentation.pdf)
 - [Report](docs/report.pdf)
 - [Participation](docs/participation.pdf)
 - [Peer reviewing](docs/peer-review.pdf)
-- [Grading](docs/grading.pdf)
 - [System building](docs/system-building.pdf)
 
 ## Important dates
