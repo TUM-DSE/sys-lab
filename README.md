@@ -101,23 +101,29 @@ Please carefully go over the following resources to prepare for the seminar:
 - **Peer-review due (via HotCRP):** TBD
 
 
-## Paper reading list
+## Tentative projects
 
-Please use the following list to select a project (FCFS): 
+- The exact list of projects will be released on Slack *in the first week*. Here are the potential projects:
 
-- The list of projects will be released on Slack *in the first week*.
+  - FPGA OS
+  - Nvidia SmartNIC
+  - BPF for storage
+  - Harvesting cloud storage
+  - Container, ARM virtualization
+  - IO stack for NVMe SSDs
 
 
 ## Report submission and peer-review portal
 
 We will manage the submission and peer-reviewing of reports via HotCRP:
 
-- [HotCRP portal](https://tum-ss2021.hotcrp.com/) 
+- [HotCRP portal]() 
 
 
 ## Contact
 
 For any further questions/comments, please contact the course organizer(s):
 
+- [Dr. Koshiba](https://atsushikoshiba.github.io/)
 - [Prof. Bhatotia](https://dse.in.tum.de/bhatotia/)
 
