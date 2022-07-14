@@ -88,7 +88,7 @@ We will be meeting three times (in-person, compulsory attendance): **Location--T
 - Phase #1 meeting
 - Phase #2 meeting
 
-In addition, four office hour meetings will be organized directly with the project mentor.
+In addition, we will hold *four* office hour meetings for project teams. These meetings will be organized directly with the project mentor.
 
 ## Important resources
 
