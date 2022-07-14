@@ -115,7 +115,7 @@ Please carefully go over the following resources to prepare for the lab:
 
 - **Phase #2 presentation:** TBD
 
-- **Report due (via HotCRP):** TBD
+- **Reports due (via HotCRP):** TBD
 
 - **Peer-review due (via HotCRP):** TBD
 
