@@ -84,7 +84,7 @@ Please carefully go over the following resources to prepare for the seminar:
 - [Participation](docs/participation.pdf)
 - [Peer reviewing](docs/peer-review.pdf)
 - [Grading](docs/grading.pdf)
-- [System building](docs/system-building.pdf) (Optional)
+- [System building](docs/system-building.pdf)
 
 ## Important dates
 
