@@ -5,10 +5,10 @@
 - This practical lab is organized by the [Chair of Decentralized Systems Engineering](https://dse.in.tum.de/) at TU Munich.
 - Language: English
 - Type: Practical course
-- Module: IN0012, IN2106, IN212811
+- Module: IN2106 Master Practical Course
 - SWS: 6
 - ECTS Credits: 10
-- Prerequisites: As such we don’t have any compulsory pre-requisites, but we prefer students to be proficient in the basic concepts of operating systems, distributed systems, systems programming (C/C++/Rust), or equivalent background.
+- Prerequisites: This lab course is only for masters. As such we don’t have any compulsory pre-requisites, but we prefer students to be proficient in the basic concepts of operating systems, distributed systems, systems programming (C/C++/Rust), or equivalent background.
 - Preferred pre-requisite courses at TUM:
     -  IN0009 : Basic Principles: Operating Systems and System Software
     -  IN0010 : Introduction to Computer Networking and Distributed Systems
@@ -21,14 +21,11 @@
 
 ## Course overview
 
+The computer systems lab is an advanced course where the students will work on an open-source project. The students will work on practical and state-of-the-art computer systems to evaluate them, dissect them, reveal their internals, and modify them to add new features. Overall, the course focuses on learning the art of building computer systems by deploying, analyzing, reproducing, and breaking practical computer systems! 
 
-The computer systems lab is an advanced course, where the students work on an open-source project. The goal is to work on real systems in a project-oriented setting, where we work on practical computer systems in a laboratory setting to evaluate them, dissect them and reveal their internals, and modify them to add new features.
+The term computer systems covers a broad range of topics, including distributed systems, systems for machine learning/AI, systems security, large-scale data analytics systems, storage systems, operating systems, file-systems, databases, multicore architectures, synchronization/concurrency primitives, parallel systems, compiler-assisted systems, dependability, reliability, cloud/edge computing, IoT systems, etc.  In short, we will focus on software systems that solve important practical problems. 
 
-Overall, the focus of this will be to learn the art of building computer systems by deploying, analyzing, reproducing, and breaking practical computer systems!
-
-The term computer systems covers a broad range of topics, including distributed systems, systems for machine learning/AI, systems security, large-scale data analytics systems, storage systems, operating systems, file-systems, databases, multicore architectures, synchronization/concurrency primitives, parallel systems, compiler-assisted systems, dependability, reliability, cloud/edge computing, IoT systems, etc. In short, we will focus on software systems that solve important practical problems!
-
-More specifically, the students will be given prominent open-source projects (research papers and associated open-source code) covering the aforementioned areas. The students (in a team of 3-4 students) accomplish the following primary tasks, with the mentorship of a researcher from our chair:
+More specifically, the students will be given prominent open-source projects (research papers and associated open-source code) covering the aforementioned areas. The students (in a team of 4 students) accomplish the following primary tasks, with the mentorship of a researcher from our chair:
 
 - **Stage 1:** Deployment and evaluation — Understand the system and associated open-source code. Analyze the source code of the system, deploy, and exercise it using real-life workloads.
 - **Stage 2:** Build and contribution — Implementing additional feature(s) and demonstrating its effectiveness. The students are encouraged to contribute to the project by creating a pull request to get their feature(s) merged into the open-source project.
@@ -59,16 +56,12 @@ The goal is to gain a deep understanding of how modern computer systems, via ope
 - Oral presentation and writing skills to concisely articulate the technical work.
 
 ## Teaching and Learning Methods
-The course will be split into 5 major components: (a) project understanding, (b) deployment and evaluation, (c) contribution, (d) oral presentations after each stage, (e) writing a technical report to describe the contributions, and (f) peer-review of the reports.
+The students will work in a team of four, and each group will be assigned to a particular open-source computer system published in a recent top systems conference (SOSP, OSDI, EuroSys, ASPLOS, ATC, NSDI, …). The course will be split into four major components as follows. 
 
-
-  - Students will be tasked, in groups of four, to select an open-source computer system published in a recent top systems conference (SOSP, OSDI, EuroSys, ASPLOS, ATC, NSDI, …). Students will have a couple of weeks to read the documentation, paper, and necessary related work, understand them.
-Students will then deploy the source code associated with that system. The goal will be to gain a deep experience with technologies used in state of the art systems and to acquire hands-on experience with evaluating complex computer systems.
- - Students will then be tasked to implement an additional feature(s) that extends the existing system, either to mitigate some of its limitations or expand the use-case to other domains. The goal of this phase is to acquaint students with contributing to open-source projects and thus students are highly encouraged to perform a pull-request to get their contribution merged into the source code of the project.
- - Oral presentations (15mins + 5 Q/A) will be held in front of the other students after each stage. The audience will also be evaluated on their questions.
- - Students will write a technical report (~4 pages) that covers the description of the project, the results of exercising the source code, and description and evaluation of the contributions of the team.
- - Students will also evaluate each others’ reports (two reports in total). Each report will be assigned a number of anonymous reviewers that will evaluate the report and give advice to improve it. The quality of the reviews (argumentation, ways to improve the report, …) will be evaluated.
-
+  a. **Phase I: Deployment and evaluation.** Students will be tasked, in groups of four, to select an open-source computer system published in a recent top systems conference (SOSP, OSDI, EuroSys, ASPLOS, ATC, NSDI, …). Students will have a couple of weeks to read the documentation, paper, and necessary related work, understand them. Students will then deploy the source code associated with that system. The goal will be to gain a deep experience with technologies used in state of the art systems and to acquire hands-on experience with evaluating complex computer systems.
+ b. **Phase II: Contribution.** Students will then be tasked to implement an additional feature(s) that extends the existing system, either to mitigate some of its limitations or expand the use-case to other domains. The goal of this phase is to acquaint students with contributing to open-source projects and thus students are highly encouraged to perform a pull-request to get their contribution merged into the source code of the project.
+ c. **Presentation** Oral presentations (15mins + 5 Q/A) will be held in front of the other students after each stage. The students will also give a demo of their systems in the final presentation. The audience will also be evaluated on their questions.
+ d. **Report and peer-review.** Students will write a technical report (~4 pages) that covers the description of the project, the results of exercising the source code, and description and evaluation of the contributions of the team. Students will also evaluate each others’ reports (two reports in total). Each report will be assigned a number of anonymous reviewers that will evaluate the report and give advice to improve it. The quality of the reviews (argumentation, ways to improve the report, …) will be evaluated.
 
 ## Registration
 
