@@ -23,10 +23,13 @@ There will be bonus points for students with accepted pull requests. Additionall
 
 In terms of organization, there will be three mandatory meetings:
 
-Meeting #1: Kick-off: Project selection and details on how to proceed.
-Meeting #2: Deployment and evaluation: Presentation on the project overview, deployment, and evaluation in addition to proposed additional feature(s).
-Meeting #3: Contribution: Final presentation and demo: Demo of the project with the additional feature(s) and the evaluation of their effectiveness.
-Additionally, two office hours will be held during the first two stages. Each team will organize this with their mentor.
+- Meeting #1: Kick-off: Project selection and details on how to proceed.
+
+- Meeting #2: Deployment and evaluation: Presentation on the project overview, deployment, and evaluation in addition to proposed additional feature(s).
+
+- Meeting #3: Contribution: Final presentation and demo: Demo of the project with the additional feature(s) and the evaluation of their effectiveness.
+
+- Additionally, two office hours will be held during the first two stages. Each team will organize this with their mentor.
 
 
 ## Registration
