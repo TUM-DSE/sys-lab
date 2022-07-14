@@ -109,7 +109,7 @@ Please carefully go over the following resources to prepare for the seminar:
 
 ## Important dates
 
-- **Preliminary meeting:** TBD
+- **Preliminary meeting:** July 18th, 2022 10:30 AM
 
 - **Kick-off meeting:** TBD
 
