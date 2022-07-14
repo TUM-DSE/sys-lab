@@ -111,7 +111,7 @@ Please carefully go over the following resources to prepare for the seminar:
 
 - **Phase #1 presentation:** TBD
 
-- **Phase #1 presentation:** TBD
+- **Phase #2 presentation:** TBD
 
 - **Report due (via HotCRP):** TBD
 
