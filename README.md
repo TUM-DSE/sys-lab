@@ -81,7 +81,7 @@ We will use Slack for all communication. Please enroll in our Slack workspace us
 ## Meeting place
 
 
-We will be meeting three times (in-person, compulsory attendance):
+We will be meeting three times (in-person, compulsory attendance): **Location--TBD**
   
 
 - Kick-off meeting
