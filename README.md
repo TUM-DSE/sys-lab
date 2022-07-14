@@ -1,8 +1,23 @@
 # Computer Systems Lab (“sys-lab”) -- WiSe 2022-23
 
-## Chair website
+## Course information
 
-- This lab is organized by the [Chair of Decentralized Systems Engineering](https://dse.in.tum.de/) at TU Munich.
+- This practical lab is organized by the [Chair of Decentralized Systems Engineering](https://dse.in.tum.de/) at TU Munich.
+- Language: English
+- Type: Practical course
+- Module: IN0012, IN2106, IN212811
+- SWS: 6
+- ECTS Credits: 10
+- Prerequisites: As such we don’t have any compulsory pre-requisites, but we prefer students to be proficient in the basic concepts of operating systems, distributed systems, systems programming (C/C++/Rust), or equivalent background.
+- Preferred pre-requisite courses at TUM:
+    -  IN0009 : Basic Principles: Operating Systems and System Software
+    -  IN0010 : Introduction to Computer Networking and Distributed Systems
+    -  IN2259: Distributed Systems
+    -  Praktikum: Systems Programming in C++
+    -  Strong programming and systems building skills are required.
+- TUM Online: For registration you have to be identified in TUMonline as a student.
+  -  Note: Compulsory enrollment after the first weeks of the matching outcome; students who fail to de-register in this period will be registered for the exam.
+-  Recommended Reading: A list of open-source projects (with papers and source code) will be provided in the first meeting.
 
 ## Course overview
 
