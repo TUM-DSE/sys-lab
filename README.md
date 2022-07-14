@@ -98,8 +98,9 @@ Please carefully go over the following resources to prepare for the lab:
 
 **Additional guidelines:**
 
-- [Paper reading](docs/paper-reading.pdf)
-- [Presentation](docs/presentation.pdf)
+- [Project selection](docs/project-selection.pdf)
+- [Phase #1 presentation](docs/phase-1-presentation.pdf)
+- [Phase #2 presentation](docs/phase-1-presentation.pdf)
 - [Report](docs/report.pdf)
 - [Participation](docs/participation.pdf)
 - [Peer reviewing](docs/peer-review.pdf)
