@@ -62,7 +62,7 @@ The students will work in a team of four, and each group will be assigned to a p
 
 - b. **Phase II: Contribution.** Students will then be tasked to implement an additional feature(s) that extends the existing system, either to mitigate some of its limitations or expand the use-case to other domains. The goal of this phase is to acquaint students with contributing to open-source projects and thus students are highly encouraged to perform a pull-request to get their contribution merged into the source code of the project.
 
-- c. **Presentation** Oral presentations (15mins + 5 Q/A) will be held in front of the other students after each stage. The students will also give a demo of their systems in the final presentation. The audience will also be evaluated on their questions.
+- c. **Presentation** Oral presentations (25-30 mins + 5 mins Q&A) will be held in front of the other students after each stage. The students will also give a demo of their systems in the final presentation. The audience will also be evaluated on their questions.
 
 - d. **Report and peer-review.** Students will write a technical report (~4 pages) that covers the description of the project, the results of exercising the source code, and description and evaluation of the contributions of the team. Students will also evaluate each others’ reports (two reports in total). Each report will be assigned a number of anonymous reviewers that will evaluate the report and give advice to improve it. The quality of the reviews (argumentation, ways to improve the report, …) will be evaluated.
 
@@ -100,11 +100,12 @@ Please carefully go over the following resources to prepare for the lab:
 
 - [Project selection](docs/project-selection.pdf)
 - [Phase #1 presentation](docs/phase-1-presentation.pdf)
-- [Phase #2 presentation](docs/phase-1-presentation.pdf)
+- [Phase #2 presentation](docs/phase-2-presentation.pdf)
 - [Report](docs/report.pdf)
 - [Participation](docs/participation.pdf)
 - [Peer reviewing](docs/peer-review.pdf)
 - [System building](docs/system-building.pdf)
+- [Grading](docs/grading.pdf)
 
 ## Important dates
 
