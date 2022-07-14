@@ -32,6 +32,19 @@ In terms of organization, there will be three mandatory meetings:
 - Additionally, two office hours will be held during the first two stages. Each team will organize this with their mentor.
 
 
+## Objectives
+The goal is to gain a deep understanding of how modern computer systems, via open-source projects, are built and designed. More specifically, students will learn to:
+
+- Concisely explain a complex computer system and the problem it solves.
+
+- Empirically analyze, deploy, and evaluate a computer system.
+
+- Extend existing systems with additional features that enhance the state of the art.
+
+- Oral presentation and writing skills to concisely articulate the technical work.
+
+
+
 ## Registration
 
 - **Capacity:** We plan to have at most 36 places in the lab.
