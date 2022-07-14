@@ -43,6 +43,16 @@ The goal is to gain a deep understanding of how modern computer systems, via ope
 
 - Oral presentation and writing skills to concisely articulate the technical work.
 
+## Teaching and Learning Methods
+The course will be split into 5 major components: (a) project understanding, (b) deployment and evaluation, (c) contribution, (d) oral presentations after each stage, (e) writing a technical report to describe the contributions, and (f) peer-review of the reports.
+
+
+  - Students will be tasked, in groups of four, to select an open-source computer system published in a recent top systems conference (SOSP, OSDI, EuroSys, ASPLOS, ATC, NSDI, …). Students will have a couple of weeks to read the documentation, paper, and necessary related work, understand them.
+Students will then deploy the source code associated with that system. The goal will be to gain a deep experience with technologies used in state of the art systems and to acquire hands-on experience with evaluating complex computer systems.
+ - Students will then be tasked to implement an additional feature(s) that extends the existing system, either to mitigate some of its limitations or expand the use-case to other domains. The goal of this phase is to acquaint students with contributing to open-source projects and thus students are highly encouraged to perform a pull-request to get their contribution merged into the source code of the project.
+ - Oral presentations (15mins + 5 Q/A) will be held in front of the other students after each stage. The audience will also be evaluated on their questions.
+ - Students will write a technical report (~4 pages) that covers the description of the project, the results of exercising the source code, and description and evaluation of the contributions of the team.
+ - Students will also evaluate each others’ reports (two reports in total). Each report will be assigned a number of anonymous reviewers that will evaluate the report and give advice to improve it. The quality of the reviews (argumentation, ways to improve the report, …) will be evaluated.
 
 
 ## Registration
