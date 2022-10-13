@@ -81,7 +81,7 @@ We will use Slack for all communication. Please enroll in our Slack workspace us
 ## Meeting place
 
 
-We will be meeting three times (in-person, compulsory attendance): **Location--TBD**
+We will be meeting three times (in-person, compulsory attendance): **Location--Seminarraum (5607.01.014)**
   
 
 - Kick-off meeting
@@ -111,11 +111,11 @@ Please carefully go over the following resources to prepare for the lab:
 
 - **Preliminary meeting:** July 18th, 2022 10:30 AM
 
-- **Kick-off meeting:** TBD
+- **Kick-off meeting:** October 17th, 2022 1:30 PM
 
-- **Phase #1 presentation:** TBD
+- **Phase #1 presentation:** November 21st, 2022 1:30 PM
 
-- **Phase #2 presentation:** TBD
+- **Phase #2 presentation:** January 16th, 2023 1:30 PM
 
 - **Reports due (via HotCRP):** TBD
 
