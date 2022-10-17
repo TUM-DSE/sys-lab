@@ -111,7 +111,7 @@ Please carefully go over the following resources to prepare for the lab:
 
 - **Preliminary meeting:** July 18th, 2022 10:30 AM
 
-- **Kick-off meeting:** October 17th, 2022 1:30 PM
+- **Kick-off meeting:** October 20th, 2022 1:00 PM
 
 - **Phase #1 presentation:** November 21st, 2022 1:30 PM
 
