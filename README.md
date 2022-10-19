@@ -122,17 +122,13 @@ Please carefully go over the following resources to prepare for the lab:
 - **Peer-review due (via HotCRP):** TBD
 
 
-## Tentative projects
+## Research projects
+[Here is the exact list of projects. ](https://docs.google.com/spreadsheets/d/17VQ0uc3D0sDqZKhEIgkyOWl-5LmcLCpryMVhSq020JE/edit?usp=sharing)
 
-- The exact list of projects will be released on Slack *in the first week*. Here are the potential projects:
-
+We offer three open-source projects as follows: 
   - FPGA OS
   - Nvidia SmartNIC
   - BPF for storage
-  - Harvesting cloud storage
-  - Container, ARM virtualization
-  - IO stack for NVMe SSDs
-
 
 ## Report submission and peer-review portal
 
