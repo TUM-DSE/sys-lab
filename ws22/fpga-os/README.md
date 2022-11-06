@@ -6,7 +6,7 @@ Here explains how to set up a development environment to build FPGA OS (Coyote).
 
 # GUI login
 
-You can use xrdp for remote desktop. Your username and password are given by course instructors. 
+You can use xrdp to access our machine via remote desktop. Your username and password will be given by course instructors. 
 Any xrdp client app is required. 
 http://xrdp.org/
 
