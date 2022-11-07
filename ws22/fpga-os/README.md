@@ -102,9 +102,9 @@ This step might stuck, in this case a hard reset is needed.
 
 One can also try this command before running the `insmod`:
 ```
-sudo ./util/hot_reset.sh b3:00.0
+sudo ./util/hot_reset.sh 81:00.0
 ```
-where `b3:00.0` is the fpga device id from `lspci -v`.
+where `81:00.0` is the fpga device id from `lspci -v`.
 
 # Build SW (Coyote APIs and example apps)
 
