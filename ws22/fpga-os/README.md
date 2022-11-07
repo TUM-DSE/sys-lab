@@ -79,7 +79,7 @@ The build command is a bit different as NixOS is installed on our machine.
 
 ```
 cd Coyote/driver/
-make -C $(nix-build -E '(import <nixpkgs> {}).linux.dev' --no-out-link)/lib/modules/*/build M=$(pwd)
+make -C $(nix-build -E '(import <nixpkgs> {}).linuxPackages_5_10.kernel.dev' --no-out-link)/lib/modules/*/build M=$(pwd)
 ```
 
 
