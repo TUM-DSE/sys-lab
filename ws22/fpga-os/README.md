@@ -75,11 +75,11 @@ Make sure to change the PROGRAM.FILE parameter for the target bitstream. Use `vi
 
 # Build driver
 
-The build command is a bit different as NixOS is installed on our machine. 
+The build command is a bit different as NixOS is installed on our machine. You may need to change the kernel version of the imported Linux package according to your target machine. Run `uname -a` to check the kernel version. 
 
 ```
 cd Coyote/driver/
-make -C $(nix-build -E '(import <nixpkgs> {}).linuxPackages_5_10.kernel.dev' --no-out-link)/lib/modules/*/build M=$(pwd)
+make -C $(nix-build -E '(import <nixpkgs> {}).linuxPackages_5_15.kernel.dev' --no-out-link)/lib/modules/*/build M=$(pwd)
 ```
 
 
