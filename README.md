@@ -113,9 +113,9 @@ Please carefully go over the following resources to prepare for the lab:
 
 - **Kick-off meeting:** October 20th, 2022 1:00 PM
 
-- **Phase #1 presentation:** November 21st, 2022 1:30 PM
+- **Phase #1 presentation:** November 21st, 2022 1:00 PM
 
-- **Phase #2 presentation:** January 16th, 2023 1:30 PM
+- **Phase #2 presentation:** January 16th, 2023 1:00 PM
 
 - **Reports due (via HotCRP):** TBD
 
