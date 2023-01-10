@@ -117,9 +117,9 @@ Please carefully go over the following resources to prepare for the lab:
 
 - **Phase #2 presentation:** January 16th, 2023 1:00 PM
 
-- **Reports due (via HotCRP):** TBD
+- **Reports due (via HotCRP):** January 27th, 2023 5:00 PM
 
-- **Peer-review due (via HotCRP):** TBD
+- **Peer-review due (via HotCRP):** February 3th, 2023 5:00 PM
 
 
 ## Research projects
