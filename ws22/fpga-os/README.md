@@ -14,7 +14,6 @@ You need to install any xrdp client app on your laptop. Please see http://xrdp.o
 
 Open a terminal app and enter a nix-shell environment. You need [coyote.nix](coyote.nix) in this directory. The commands are as follows: 
 ```
-xilinx-shell
 nix-shell coyote.nix
 ```
 
@@ -24,13 +23,6 @@ Note: you will see the following message when you execute `xilinx-shell`, but yo
 ```
 
 # Build HW (Coyote shell)
-
-After cloning the repo, apply a patch [coyote-syslab-ws22.patch](coyote-syslab-ws22.patch) first. 
-
-```
-cd Coyote
-git apply <your location>/coyote-syslab-ws22.patch 
-```
 
 We verified this patch works with the latest commit (commit hash: `cc181dd`). 
 
@@ -132,5 +124,3 @@ Note that hardware compilation is much slower than sw compilation.`make compile`
 To efficiently do experiments, it'd be better to execute it in the background, i.e., `nohup make compile &`. 
 
 [coyote_readme]: https://github.com/fpgasystems/Coyote/blob/master/README.md "Coyote/README.md"
-
-
