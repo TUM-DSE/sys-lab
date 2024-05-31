@@ -94,7 +94,7 @@ In addition, we will hold *four* office hour meetings for project teams. These p
 
 Please carefully go over the following resources to prepare for the lab:
 
-- [Overview](docs/sys-lab-overview.pdf)
+- [Overview](docs/overview.pdf)
 
 ## Important dates
 
