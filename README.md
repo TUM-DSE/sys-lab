@@ -1,4 +1,4 @@
-# Computer Systems Lab (“sys-lab”) -- WiSe 2022-23
+# Computer Systems Lab (“sys-lab”) -- WiSe 2024-25
 
 ## Course information
 
@@ -25,7 +25,7 @@ The computer systems lab is an advanced course where the students will work on a
 
 The term computer systems covers a broad range of topics, including distributed systems, systems for machine learning/AI, systems security, large-scale data analytics systems, storage systems, operating systems, file-systems, databases, multicore architectures, synchronization/concurrency primitives, parallel systems, compiler-assisted systems, dependability, reliability, cloud/edge computing, IoT systems, etc.  In short, we will focus on software systems that solve important practical problems. 
 
-More specifically, the students will be given prominent open-source projects (research papers and associated open-source code) covering the aforementioned areas. The students (in a team of 4 students) accomplish the following primary tasks, with the mentorship of a researcher from our chair:
+More specifically, the students will be given prominent open-source projects (research papers and associated open-source code) covering the aforementioned areas. The students (in a team of 3/4 students) accomplish the following primary tasks, with the mentorship of a researcher from our chair:
 
 - **Stage 1:** Deployment and evaluation — Understand the system and associated open-source code. Analyze the source code of the system, deploy, and exercise it using real-life workloads.
 - **Stage 2:** Build and contribution — Implementing additional feature(s) and demonstrating its effectiveness. The students are encouraged to contribute to the project by creating a pull request to get their feature(s) merged into the open-source project.
@@ -58,7 +58,7 @@ The goal is to gain a deep understanding of how modern computer systems, via ope
 ## Teaching and Learning Methods
 The students will work in a team of four, and each group will be assigned to a particular open-source computer system published in a recent top systems conference (SOSP, OSDI, EuroSys, ASPLOS, ATC, NSDI, …). The course will be split into four major components as follows. 
 
- -  **Phase I: Deployment and evaluation.** Students will be tasked, in groups of four, to select an open-source computer system published in a recent top systems conference (SOSP, OSDI, EuroSys, ASPLOS, ATC, NSDI, …). Students will have a couple of weeks to read the documentation, paper, and necessary related work, understand them. Students will then deploy the source code associated with that system. The goal will be to gain a deep experience with technologies used in state of the art systems and to acquire hands-on experience with evaluating complex computer systems.
+ -  **Phase I: Deployment and evaluation.** Students will be asked to choose between a collection of open-source computer system published in a recent top systems conference (SOSP, OSDI, EuroSys, ASPLOS, ATC, NSDI, …). Students will have a couple of weeks to read the documentation, paper, and necessary related work and understand them. Students will then deploy the source code associated with that system. The goal will be to gain a deep experience with technologies used in state-of-the-art systems and acquire hands-on experience with evaluating complex computer systems.
 
 - **Phase II: Contribution.** Students will then be tasked to implement an additional feature(s) that extends the existing system, either to mitigate some of its limitations or expand the use-case to other domains. The goal of this phase is to acquaint students with contributing to open-source projects and thus students are highly encouraged to perform a pull-request to get their contribution merged into the source code of the project.
 
@@ -68,7 +68,7 @@ The students will work in a team of four, and each group will be assigned to a p
 
 ## Registration
 
-- **Capacity:** We plan to have at most 32 places (8 teams) in the lab.
+- **Capacity:** We plan to have around 32 places (8 teams) in the lab.
 - **Deadline:** Two weeks after the matching period, we will formally enroll you for the course. If you want to drop out, you will need to inform us before the registration deadline.  
 
 ## Slack workspace
@@ -76,7 +76,7 @@ The students will work in a team of four, and each group will be assigned to a p
 We will use Slack for all communication. Please enroll in our Slack workspace using your official TUM email address.
 
 - **Slack workspace:** https://ls1-courses-tum.slack.com
-- **Slack channel:** #ws-22-sys-lab
+- **Slack channel:** #ws-24-sys-lab
 
 ## Meeting place
 
@@ -96,51 +96,31 @@ Please carefully go over the following resources to prepare for the lab:
 
 - [Overview](docs/sys-lab-overview.pdf)
 
-**Additional guidelines:**
-
-- [Project selection](docs/project-selection.pdf)
-- [Phase #1 presentation](docs/phase-1-presentation.pdf)
-- [Phase #2 presentation](docs/phase-2-presentation.pdf)
-- [Report](docs/report.pdf)
-- [Participation](docs/participation.pdf)
-- [Peer reviewing](docs/peer-review.pdf)
-- [System building](docs/system-building.pdf)
-- [Grading](docs/grading.pdf)
-
 ## Important dates
 
-- **Preliminary meeting:** July 18th, 2022 10:30 AM
+- **Preliminary meeting:** TBD
 
-- **Kick-off meeting:** October 20th, 2022 1:00 PM
+- **Kick-off meeting:** TBD
 
-- **Phase #1 presentation:** November 21st, 2022 1:00 PM
+- **Phase #1 presentation:** TBD
 
-- **Phase #2 presentation:** January 16th, 2023 1:00 PM
+- **Phase #2 presentation:** TBD
 
-- **Reports due (via HotCRP):** January 27th, 2023 5:00 PM
+- **Reports due (via HotCRP):** TBD
 
-- **Peer-review due (via HotCRP):** February 3th, 2023 5:00 PM
+- **Peer-review due (via HotCRP):** TBD
 
 
 ## Research projects
-[Here is the exact list of projects. ](https://docs.google.com/spreadsheets/d/17VQ0uc3D0sDqZKhEIgkyOWl-5LmcLCpryMVhSq020JE/edit?usp=sharing)
-
-We offer three open-source projects as follows: 
-  - FPGA OS
-  - Nvidia SmartNIC
-  - BPF for storage
+The exact list of resarch project will be available later.
 
 ## Report submission and peer-review portal
-
-We will manage the submission and peer-reviewing of reports via HotCRP:
-
-- [HotCRP portal](https://tum-dse-sys-lab21.hotcrp.com/) 
 
 
 ## Contact
 
 For any further questions/comments, please contact the course organizer(s):
 
-- [Dr. Koshiba](https://atsushikoshiba.github.io/)
+- [Ilya Meignan--Masson](https://ilya-meignan--masson.me)
 - [Prof. Bhatotia](https://dse.in.tum.de/bhatotia/)
 
