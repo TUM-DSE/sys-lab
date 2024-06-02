@@ -8,12 +8,11 @@
 - Module: IN2106 Master Practical Course
 - SWS: 6
 - ECTS Credits: 10
-- Prerequisites: This lab course is only for masters. As such we don’t have any compulsory pre-requisites, but we prefer students to be proficient in the basic concepts of operating systems, distributed systems, systems programming (C/C++/Rust), or equivalent background.
+- Prerequisites: This lab course is open for Bachelor's and Master's students. For Master's student, we don’t have any compulsory pre-requisites, but we prefer students to be proficient in the basic concepts of operating systems, distributed systems, systems programming (C/C++/Rust), or equivalent background. For Bachelor's students, we require that you passed at least INHN0007 Basic Principles: Operating Systems and System Software.
 - Preferred pre-requisite courses at TUM:
-    -  IN0009 : Basic Principles: Operating Systems and System Software
-    -  IN0010 : Introduction to Computer Networking and Distributed Systems
-    -  IN2259: Distributed Systems
-    -  Praktikum: Systems Programming in C++
+    -  INHN0007 : Basic Principles: Operating Systems and System Software
+    -  IN0010: Grundlagen Rechnernetze und Verteilte Systeme
+    -  IN0012, IN2106, IN2128: Praktikum: Systems Programming in C/Rust
     -  Strong programming and systems building skills are required.
 - TUM Online: For registration you have to be identified in TUMonline as a student.
   -  Note: Compulsory enrollment after the first weeks of the matching outcome; students who fail to de-register in this period will be registered for the exam.
@@ -29,7 +28,7 @@ More specifically, the students will be given prominent open-source projects (re
 
 - **Stage 1:** Deployment and evaluation — Understand the system and associated open-source code. Analyze the source code of the system, deploy, and exercise it using real-life workloads.
 - **Stage 2:** Build and contribution — Implementing additional feature(s) and demonstrating its effectiveness. The students are encouraged to contribute to the project by creating a pull request to get their feature(s) merged into the open-source project.
-- **Stage 3:** Report and peer-review — Each team will submit a report (~4 pages) that covers their evaluation and contributions. Then each student, independently, will evaluate two reports from other teams.
+- **Stage 3:** Report and presentation — Each team will submit a report (~4 pages) that covers their evaluation and contributions. During the final meeting, each team will present and defend their work in front of the others.
 
 There will be bonus points for students with accepted pull requests. Additionally, the top students will be nominated/encouraged to participate in the artifact evaluation committee for the major computer systems conferences: OSDI, SOSP, ASPLOS, EuroSys, etc.
 
@@ -64,11 +63,11 @@ The students will work in a team of four, and each group will be assigned to a p
 
 - **Presentation** Oral presentations (25-30 mins + 5 mins Q&A) will be held in front of the other students after each stage. The students will also give a demo of their systems in the final presentation. The audience will also be evaluated on their questions.
 
-- **Report and peer-review.** Students will write a technical report (~4 pages) that covers the description of the project, the results of exercising the source code, and description and evaluation of the contributions of the team. Students will also evaluate each others’ reports (two reports in total). Each report will be assigned a number of anonymous reviewers that will evaluate the report and give advice to improve it. The quality of the reviews (argumentation, ways to improve the report, …) will be evaluated.
+- **Report** Students will write a technical report (~4 pages) that covers the description of the project, the results of exercising the source code, and description and evaluation of the contributions of the team.
 
 ## Registration
 
-- **Capacity:** We plan to have around 32 places (8 teams) in the lab.
+- **Capacity:** We plan to have around 36 places (9 teams) in the lab.
 - **Deadline:** Two weeks after the matching period, we will formally enroll you for the course. If you want to drop out, you will need to inform us before the registration deadline.  
 
 ## Slack workspace
@@ -88,7 +87,7 @@ We will be meeting three times (in-person, compulsory attendance): **Location--S
 - Phase #1 meeting
 - Phase #2 meeting
 
-In addition, we will hold *four* office hour meetings for project teams. These project teams meetings will be individually organized by the project mentor.
+In addition, we will hold *four* office-hour meetings for project teams. These project team meetings will be individually organized by the project mentor.
 
 ## Important resources
 
