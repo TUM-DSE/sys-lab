@@ -2,7 +2,7 @@
 
 ## Course information
 
-- This practical lab is organized by the [Chair of Decentralized Systems Engineering](https://dse.in.tum.de/) at TU Munich.
+- This practical lab is organized by the [Systems Research Group](https://dse.in.tum.de/) at TU Munich.
 - Language: English
 - Type: Practical course
 - Module: IN2106 Master Practical Course
