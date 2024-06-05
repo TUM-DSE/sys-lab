@@ -97,7 +97,7 @@ Please carefully go over the following resources to prepare for the lab:
 
 ## Important dates
 
-- **Preliminary meeting:** TBD
+- **Preliminary meeting:** Thursday 04/07/2024 (online at https://tum-conf.zoom-x.de/s/62368193459)
 
 - **Kick-off meeting:** TBD
 
@@ -106,8 +106,6 @@ Please carefully go over the following resources to prepare for the lab:
 - **Phase #2 presentation:** TBD
 
 - **Reports due (via HotCRP):** TBD
-
-- **Peer-review due (via HotCRP):** TBD
 
 
 ## Research projects
@@ -118,7 +116,7 @@ The exact list of resarch project will be available later.
 
 ## Contact
 
-For any further questions/comments, please contact the course organizer(s):
+For any further questions/comments, don't hesitate to get in touch with the course organizer(s):
 
 - [Ilya Meignan--Masson](https://ilya-meignan--masson.me)
 - [Prof. Bhatotia](https://dse.in.tum.de/bhatotia/)
