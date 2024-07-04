@@ -97,7 +97,7 @@ Please carefully go over the following resources to prepare for the lab:
 
 ## Important dates
 
-- **Preliminary meeting:** Thursday 04/07/2024 at 14:00 (online at https://tum-conf.zoom-x.de/s/62368193459)
+- **Preliminary meeting:** Thursday 04/07/2024 at 14:00 (online at https://tum-conf.zoom-x.de/s/62368193459, passcode: 544743)
 
 - **Kick-off meeting:** TBD
 
