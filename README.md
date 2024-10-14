@@ -101,7 +101,7 @@ Please carefully go over the following resources to prepare for the lab:
 
 - **Kick-off meeting:** 17/10/2024
 
-- **Phase #1 presentation:** 21/11/2024
+- **Phase #1 presentation:** 28/11/2024
 
 - **Phase #2 presentation:** 31/01/2025
 
@@ -116,6 +116,6 @@ The list of projects can be found in [this spreadsheet](https://docs.google.com/
 
 For any further questions/comments, don't hesitate to get in touch with the course organizer(s):
 
-- [David Schall](https://dhschall.github.io/)
+- [David Schall](https://dhschall.github.io/), [mail](mailto:david.schall@tum.de?subject=[Sys-lab]XX)
 - [Prof. Bhatotia](https://dse.in.tum.de/bhatotia/)
 
