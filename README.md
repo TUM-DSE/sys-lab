@@ -1,4 +1,4 @@
-# Computer Systems Lab (“sys-lab”) -- SoSe 2025
+# Computer Systems Lab (“sys-lab”) -- WiSe 2024-25
 
 ## Course information
 
@@ -75,7 +75,7 @@ The students will work in teams of four, and each group will be assigned to a pa
 We will use Slack for all communication. Please enroll in our Slack workspace using your official TUM email address.
 
 - **Slack workspace:** https://ls1-courses-tum.slack.com
-- **Slack channel:** #ss-25-sys-lab
+- **Slack channel:** #ws-24-sys-lab
 
 ## Meeting place
 
@@ -89,33 +89,28 @@ We will be meeting three times (in-person, compulsory attendance): **Location--S
 
 In addition, we will hold *four* office-hour meetings for project teams. These project team meetings will be individually organized by the project mentor.
 
-<!--
 ## Important resources
 
 Please carefully go over the following resources to prepare for the lab:
 
 - [Overview](docs/overview.pdf)
--->
 
 ## Important dates
 
-- **Preliminary meeting:** Thursday 13/02/2025 at 14:00 (online at [https://tum-conf.zoom-x.de/s/62368193459](https://tum-conf.zoom-x.de/j/66132081490?pwd=1uyOusCPDF76GZlRUNOSHTRMCMczFP.1), passcode: 410106)
+- **Preliminary meeting:** Thursday 04/07/2024 at 14:00 (online at https://tum-conf.zoom-x.de/s/62368193459, passcode: 544743)
 
-- **Kick-off meeting:** 24/04/2025
+- **Kick-off meeting:** 17/10/2024
 
-- **Phase #1 presentation:** 29/06/2025
+- **Phase #1 presentation:** 28/11/2024
 
-- **Phase #2 presentation:** 10/07/2025
+- **Phase #2 presentation:** 31/01/2025
 
-- **Reports due (via email to project lead):** 10/07/2025
+- **Reports due (via email to project lead):** 31/01/2025
 
 
 ## Research projects
-
-TBD
-<!---
 The list of projects can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/16l99dSNBTV5wBZRtS0e_EnveJ_r0gW6J68lkTzelLbU/edit?usp=sharing)
--->
+
 
 ## Contact
 
@@ -123,4 +118,3 @@ For any further questions/comments, don't hesitate to get in touch with the cour
 
 - [David Schall](https://dhschall.github.io/), [mail](mailto:david.schall@tum.de?subject=[Sys-lab]XX)
 - [Prof. Bhatotia](https://dse.in.tum.de/bhatotia/)
-
