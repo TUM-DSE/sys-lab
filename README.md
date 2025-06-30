@@ -1,4 +1,4 @@
-# Computer Systems Lab (“sys-lab”) -- WiSe 2024-25
+# Computer Systems Lab (“sys-lab”) -- WiSe 2025-26
 
 ## Course information
 
@@ -75,7 +75,7 @@ The students will work in teams of four, and each group will be assigned to a pa
 We will use Slack for all communication. Please enroll in our Slack workspace using your official TUM email address.
 
 - **Slack workspace:** https://ls1-courses-tum.slack.com
-- **Slack channel:** #ws-24-sys-lab
+- **Slack channel:** #ws-25-sys-lab
 
 ## Meeting place
 
@@ -97,15 +97,15 @@ Please carefully go over the following resources to prepare for the lab:
 
 ## Important dates
 
-- **Preliminary meeting:** Thursday 04/07/2024 at 14:00 (online at https://tum-conf.zoom-x.de/s/62368193459, passcode: 544743)
+- **Preliminary meeting:** Thursday 17/07/2025 at 14:00 (online at [https://tum-conf.zoom-x.de/s/62368193459](https://tum-conf.zoom-x.de/j/66253261423), passcode: 098893)
 
-- **Kick-off meeting:** 17/10/2024
+- **Kick-off meeting:** 16/10/2025
 
-- **Phase #1 presentation:** 28/11/2024
+- **Phase #1 presentation:** 20/11/2025
 
-- **Phase #2 presentation:** 31/01/2025
+- **Phase #2 presentation:** 22/01/2026
 
-- **Reports due (via email to project lead):** 31/01/2025
+- **Reports due (via email to project lead):** 22/01/2026
 
 
 ## Research projects
