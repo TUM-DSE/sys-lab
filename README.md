@@ -97,7 +97,9 @@ Please carefully go over the following resources to prepare for the lab:
 
 ## Important dates
 
-- **Preliminary meeting:** Thursday 17/07/2025 at 14:00 (online at [https://tum-conf.zoom-x.de/s/62368193459](https://tum-conf.zoom-x.de/j/66253261423), passcode: 098893)
+- **Preliminary meeting:** ~~Thursday 17/07/2025 at 14:00 (online at [https://tum-conf.zoom-x.de/s/62368193459](https://tum-conf.zoom-x.de/j/66253261423), passcode: 098893)~~
+  
+  slides: [overview](./docs/overview.pdf)
 
 - **Kick-off meeting:** 16/10/2025
 
