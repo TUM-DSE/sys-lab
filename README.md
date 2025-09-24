@@ -101,7 +101,7 @@ Please carefully go over the following resources to prepare for the lab:
   
   slides: [overview](./docs/overview.pdf)
 
-- **Kick-off meeting:** 16/10/2025
+- **Kick-off meeting:** 16/10/2025 (13:00h-14:00h)
 
 - **Phase #1 presentation:** 20/11/2025
 
