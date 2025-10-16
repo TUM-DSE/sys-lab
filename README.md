@@ -103,6 +103,8 @@ Please carefully go over the following resources to prepare for the lab:
 
 - **Kick-off meeting:** 16/10/2025 (13:00h-14:00h) room: [01.07.014](https://nav.tum.de/room/5607.01.014)
 
+  slides: https://docs.google.com/presentation/d/1Qm37H1Mu-Odn18mOKaeEj71Or7Q0AxnJz9QPs9PcsqM/edit?usp=sharing
+
 - **Phase #1 presentation:** 20/11/2025
 
 - **Phase #2 presentation:** 22/01/2026
